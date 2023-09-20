@@ -1,0 +1,14 @@
+Arithmetic sequence
+An arithmetic sequence is an ordered set of numbers that have a common difference between each consecutive term.
+
+Write a program that shows the first five terms of the arithmetic sequence 0,5,10,15,20.
+
+Harmonic sequence
+A harmonic sequence is an ordered set of numbers that have a common difference between the reciprocals of each consecutive term.
+
+Write a program that shows the first five terms of the harmonic sequence 1/2,1/4,1/6,1/8,1/10.
+
+Geometric sequence
+A geometric sequence is an ordered set of numbers that have a common multiplier between each consecutive term.
+
+Write a program that shows the first five terms of the geometric sequence 1,3,9,27,81.
